@@ -1,0 +1,12 @@
+{
+  "sound_effects": true,
+  "default_dice": "d6",
+  "default_modifier": 0,
+  "auto_clear_history": false,
+  "theme": "Dark",
+  "gandor_personality": "Wise",
+  "gandor_memory_enabled": true,
+  "party_tracker_enabled": true,
+  "session_autosave": false,
+  "vtt_session_id": ""
+}

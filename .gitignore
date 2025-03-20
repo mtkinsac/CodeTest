@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+.venv
+*.env
+*.venv
+
+# VSCode
+.vscode/
+
+# OS and backups
+.DS_Store
+Thumbs.db
+*.bak
+*.swp
+~$*
+
+# PyQt / build artifacts
+*.ui
+build/
+dist/
+
+# OneDrive noise
+*.tmp

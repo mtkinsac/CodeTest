@@ -1,0 +1,107 @@
+[
+    {
+        "timestamp": "2025-03-20 09:21:06",
+        "dm_message": "Hi Gandor, tell me about you",
+        "gandor_response": "I heard you say: 'Hi Gandor, tell me about you' Contemplate deeply."
+    },
+    {
+        "timestamp": "2025-03-20 09:24:13",
+        "dm_message": "Hi Gandor",
+        "gandor_response": "I heard you say: 'Hi Gandor' Contemplate deeply."
+    },
+    {
+        "timestamp": "2025-03-20 09:24:22",
+        "dm_message": "and",
+        "gandor_response": "I heard you say: 'and' Contemplate deeply."
+    },
+    {
+        "timestamp": "2025-03-20 09:40:58",
+        "dm_message": "Hi Gandor, we are testing the broadcast system.",
+        "gandor_response": "I heard you say: 'Hi Gandor, we are testing the broadcast system.' The ancient scrolls whisper truths."
+    },
+    {
+        "timestamp": "2025-03-20 09:46:52",
+        "dm_message": "Hey Gandor",
+        "gandor_response": "I heard you say: 'Hey Gandor' Contemplate deeply."
+    },
+    {
+        "timestamp": "2025-03-20 09:51:35",
+        "dm_message": "hi Gandor",
+        "gandor_response": "I heard you say: 'hi Gandor' Contemplate deeply."
+    },
+    {
+        "timestamp": "2025-03-20 09:57:02",
+        "dm_message": "Hail, and well met",
+        "gandor_response": "I heard you say: 'Hail, and well met' Contemplate deeply."
+    },
+    {
+        "timestamp": "2025-03-20 10:01:58",
+        "dm_message": "Hail",
+        "gandor_response": "I heard you say: 'Hail' The ancient scrolls whisper truths."
+    },
+    {
+        "timestamp": "2025-03-20 10:35:17",
+        "dm_message": "Howdy",
+        "gandor_response": "I heard you say: 'Howdy' Contemplate deeply."
+    },
+    {
+        "timestamp": "2025-03-20 10:37:26",
+        "dm_message": "hi",
+        "gandor_response": "I heard you say: 'hi' Contemplate deeply."
+    },
+    {
+        "timestamp": "2025-03-20 10:39:21",
+        "dm_message": "hi",
+        "gandor_response": "I heard you say: 'hi' Contemplate deeply."
+    },
+    {
+        "timestamp": "2025-03-20 10:42:28",
+        "dm_message": "hail",
+        "gandor_response": "I heard you say: 'hail' The ancient scrolls whisper truths."
+    },
+    {
+        "timestamp": "2025-03-20 11:24:43",
+        "dm_message": "hi there",
+        "gandor_response": "I heard you say: 'hi there' The ancient scrolls whisper truths."
+    },
+    {
+        "timestamp": "2025-03-20 11:29:21",
+        "dm_message": "hi there",
+        "gandor_response": "I heard you say: 'hi there' Contemplate deeply."
+    },
+    {
+        "timestamp": "2025-03-20 11:29:44",
+        "dm_message": "this is a test",
+        "gandor_response": "I heard you say: 'this is a test' The ancient scrolls whisper truths."
+    },
+    {
+        "timestamp": "2025-03-20 11:32:20",
+        "dm_message": "hey",
+        "gandor_response": "I heard you say: 'hey' The ancient scrolls whisper truths."
+    },
+    {
+        "timestamp": "2025-03-20 11:32:34",
+        "dm_message": "Player output not happening",
+        "gandor_response": "I heard you say: 'Player output not happening' The ancient scrolls whisper truths."
+    },
+    {
+        "timestamp": "2025-03-20 11:37:29",
+        "dm_message": "testing",
+        "gandor_response": "I heard you say: 'testing' The ancient scrolls whisper truths."
+    },
+    {
+        "timestamp": "2025-03-20 11:46:35",
+        "dm_message": "hello Gandor!",
+        "gandor_response": "I heard you say: 'hello Gandor!' Contemplate deeply."
+    },
+    {
+        "timestamp": "2025-03-20 11:46:51",
+        "dm_message": "test test test",
+        "gandor_response": "I heard you say: 'test test test' The ancient scrolls whisper truths."
+    },
+    {
+        "timestamp": "2025-03-20 11:55:48",
+        "dm_message": "hi",
+        "gandor_response": "I heard you say: 'hi' The ancient scrolls whisper truths."
+    }
+]
